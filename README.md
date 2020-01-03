@@ -12,7 +12,7 @@ git
 visual-paradigm
 
 ##脚本
-`sql
+`sql`
 create table USER
 (
   ID           INTEGER default NEXT VALUE FOR "PUBLIC"."SYSTEM_SEQUENCE_2D351212_B8BD_4C79_9D9E_00EC3B30F511"
@@ -24,5 +24,4 @@ create table USER
   GMT_MODIFIED BIGINT
 );
 
-`
 
